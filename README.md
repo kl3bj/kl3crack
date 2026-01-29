@@ -1,3 +1,3 @@
 # kl3crack.py
 
-Ferramenta desenvolvido como aprendizado de Python, ferramenta executa um crack para hashs encontrados em /etc/shadow
+Ferramenta desenvolvida como desafio para aprimoramento do meu aprendizado de Python, ela executa um crack para hashs encontrados em "/etc/shadow"
